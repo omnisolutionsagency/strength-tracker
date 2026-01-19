@@ -44,8 +44,13 @@
       "weight": "20",
       "reps": "12",
       "completed": true
+    },
+    "w1d1e3s2": {
+      "weight": "25",
+      "reps": "12",
+      "completed": true
     }
   },
   "runningLog": {},
-  "lastUpdated": "2026-01-19T23:33:43.830Z"
+  "lastUpdated": "2026-01-19T23:34:38.168Z"
 }
