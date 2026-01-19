@@ -61,9 +61,11 @@
       "completed": true
     },
     "w1d1e0s0": {
-      "weight": "115"
+      "weight": "115",
+      "reps": "10",
+      "completed": true
     }
   },
   "runningLog": {},
-  "lastUpdated": "2026-01-19T23:40:37.024Z"
+  "lastUpdated": "2026-01-19T23:40:42.765Z"
 }
